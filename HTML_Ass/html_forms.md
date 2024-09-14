@@ -7,6 +7,5 @@
     <input type="text" id="pswd" name="pswd" placeholder="Enter your password"><br>
     <input type="checkbox" id="atc" name="atc" >
     <label for="atc">Agree terms & conditions</label><br> 
-    
-    <button type="button" >Submit</button>    
+     <button type="button" >Submit</button>    
 </form>
