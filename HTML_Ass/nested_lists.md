@@ -53,7 +53,7 @@
                     <li>Cast : Lijo Mol Jose as Senggeni ; Manikandan as RAjakannu</li>
                     
                 </ul>
-                <li>Des:**Jai Bhim** is revolves as where a lawyer fights for justice for a tribal couple tortured by police.</li>
+                <li>Des:Jai Bhim is revolves as where a lawyer fights for justice for a tribal couple tortured by police.</li>
             </ul>
 
     </ol>
